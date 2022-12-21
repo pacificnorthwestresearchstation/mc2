@@ -14,4 +14,8 @@ partial list of publications.
 
 MC1 and MC2 were created, used and maintained by many scientists, with support
 from the USDA Forest Service Pacific Northwest Research Station and other
-organizations.
+organizations. Furthermore, the century module within MC1 and MC2 is adapted
+from Century Soil Organic Model (colostate.edu).
+
+For those attempting to run MC2 for the very first time, tools/mc2starterkit.zip
+contains all files needed to run MC2 for a small sample area.
