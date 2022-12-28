@@ -1,0 +1,13 @@
+# Common credential files
+**/credentials.json
+*creds*
+*.dat
+*password*
+
+
+
+# Mac/OSX
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
